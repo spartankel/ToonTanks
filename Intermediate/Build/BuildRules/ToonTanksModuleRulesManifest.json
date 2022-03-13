@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Code\\UE4\\UdemyCourse\\ToonTanks\\Source\\ToonTanks\\ToonTanks.Build.cs",
+		"D:\\Code\\UE4\\UdemyCourse\\ToonTanks\\Source\\ToonTanks.Target.cs",
+		"D:\\Code\\UE4\\UdemyCourse\\ToonTanks\\Source\\ToonTanksEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
